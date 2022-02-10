@@ -1,0 +1,47 @@
+
+h1 {
+    color: #82adfc;
+    font-size: 30px;
+    text-align: justify;
+}
+
+
+.small-everything {
+    border-width: 50px;
+    border-style: solid;
+    border-radius: 50px;
+    border-color: #82adfc;
+    float: right;
+    width: 175px;
+    
+    
+}
+
+.box-break-1 {
+    border-width: 50px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #2d5297;
+}
+
+
+.image-right-1 {
+    float: right;
+    width: 110px;
+    margin-left: 150px;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #82adfc;
+}
+
+.color-line-1{
+    background-color: #82adfc;
+
+}
+
+#quick-link {
+    background-color: #82adfc;
+}
