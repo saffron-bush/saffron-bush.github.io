@@ -1,9 +1,22 @@
 
+
+
 h1 {
     color: #82adfc;
-    font-size: 30px;
-    text-align: justify;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Shizuru', cursive;
 }
+
+header {
+
+    margin-left: 130px;
+    margin-right: 130px;
+    margin-bottom: 50px;
+    font-family: 'Pangolin', cursive;
+
+}
+    
 
 
 .small-everything {
@@ -17,28 +30,54 @@ h1 {
     
 }
 
+body {
+    font-family: 'Pangolin', cursive;
+    font-size: small;
+}
+
 .box-break-1 {
-    border-width: 50px;
+    border-width: 10px;
     border-style: solid;
     border-radius: 10px;
-    border-color: #2d5297;
+    border-color: #82adfc;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 
-.image-right-1 {
-    float: right;
-    width: 110px;
-    margin-left: 150px;
+.image-left-1 {
+    float: left;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 12px;
+    margin-right: 90px;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #82adfc;
+}
+
+.image-left-2 {
+    float: left;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-right: 10px;
     padding-left: 2%;
     padding-right: 2%;
-    border-width: 10px;
+    border-width: 40px;
     border-style: solid;
     border-radius: 10px;
     border-color: #82adfc;
 }
 
 .color-line-1{
-    background-color: #82adfc;
+    background-color: #e99d7a;
+
+}
+
+.color-line-2{
+    background-color: #bad5e4;
 
 }
 
