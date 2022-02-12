@@ -103,7 +103,7 @@ body {
 
 .box-break-1 {
     border-width: 10px;
-    border-style: double;
+    border-style: solid;
     border-radius: 50px;
     border-color: #82adfc;
     margin-bottom: 1%;
